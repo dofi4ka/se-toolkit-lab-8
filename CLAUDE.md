@@ -5,7 +5,7 @@ See [`contributing/conventions/agents/authoring.md`](contributing/conventions/ag
 ## Docker
 
 Always use the env file flag when running docker compose:
-
+meow
 ```sh
 docker compose --env-file .env.docker.secret <command>
 ```
