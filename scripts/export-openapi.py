@@ -6,6 +6,8 @@ import os
 import sys
 from pathlib import Path
 
+# meow
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_OUTPUT = REPO_ROOT / "backend" / "openapi.json"
 
